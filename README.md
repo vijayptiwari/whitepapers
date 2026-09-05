@@ -21,6 +21,7 @@ A decision-provenance framework for auditable, policy-aware, uncertainty-aware r
 
 - [Project repository](https://github.com/vijayptiwari/evidence-grounded-agent-routing)
 - [Read the white paper](https://github.com/vijayptiwari/evidence-grounded-agent-routing/blob/main/WHITEPAPER.md)
+- [Version 0.1.0 release](https://github.com/vijayptiwari/evidence-grounded-agent-routing/releases/tag/v0.1.0)
 - [Reference implementation](https://github.com/vijayptiwari/evidence-grounded-agent-routing/blob/main/IMPLEMENTATION.md)
 - [Synthetic benchmark results](https://github.com/vijayptiwari/evidence-grounded-agent-routing/blob/main/benchmark/RESULTS.md)
 - License: Apache-2.0 for software; CC BY 4.0 for paper, documentation, and research artifacts
